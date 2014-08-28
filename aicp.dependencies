@@ -1,6 +1,6 @@
 [
  {
-   "repository": "AOKP/device_lge_gproj-common",
+   "repository": "AICP/device_lge_gproj-common",
    "target_path": "device/lge/gproj-common",
    "branch": "kitkat"
  },
